@@ -6,5 +6,6 @@ repo_name: 'mhausenblas/actions-sandbox'
 repo_url: 'https://github.com/mhausenblas/actions-sandbox'
 nav:
     - Home: index.md
+    - About: about.md
 theme:
   name: 'readthedocs'
