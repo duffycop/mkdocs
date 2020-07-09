@@ -8,6 +8,3 @@ nav:
     - Home: index.md
 theme:
   name: 'readthedocs'
-
-- name: Deploy MkDocs
-  uses: mhausenblas/mkdocs-deploy-gh-pages@1.12
